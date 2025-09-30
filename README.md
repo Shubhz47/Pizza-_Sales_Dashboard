@@ -95,6 +95,6 @@ To deliver an interactive dashboard that:
 ---
 
 ## 6. Screenshots / Demos  
-![Pizza Sales Dashboard](images/Snapshot_Pizza_Sales.png)  
+![Pizza Sales Dashboard]([images/Snapshot_Pizza_Sales.png](https://github.com/Shubhz47/Pizza-_Sales_Dashboard/blob/main/Snapshot_Pizza_Sales.png))  
 
 ---
