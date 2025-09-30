@@ -94,8 +94,8 @@ To deliver an interactive dashboard that:
 
 ---
 
-## 6. Screenshots / Demos  
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Shubhz47/Pizza-_Sales_Dashboard/blob/main/Snapshot_Pizza_Sales.png) 
+## 6. Screenshots  
+
+![Dashboard Preview](https://github.com/Shubhz47/Pizza-_Sales_Dashboard/blob/main/Snapshot_Pizza_Sales.png) 
 
 ---
