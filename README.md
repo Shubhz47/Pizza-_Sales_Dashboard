@@ -1,12 +1,12 @@
 # 🍕 Pizza Sales Dashboard  
 
-## 1. Project Title / Headline  
+## 1. Project Title 
 **“Pizza Insights: Interactive Sales & Performance Dashboard”**  
 A dynamic, data-driven Power BI dashboard designed to analyze pizza sales performance. It highlights revenue drivers, customer preferences, time-based demand, and top-selling products to support decision-making in food and beverage businesses.  
 
 ---
 
-## 2. Short Description / Purpose  
+## 2. Purpose  
 The Pizza Sales Dashboard is a **visually engaging analytical tool** built to explore and monitor pizza sales across different categories, sizes, time periods, and weekdays. It helps stakeholders identify sales trends, top revenue-generating pizzas, and underperforming products.  
 
 ---
